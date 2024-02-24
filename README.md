@@ -1,8 +1,8 @@
 # Landing Page AWD - FEUTECH
 
-## This is website is the landing page for the projects created this semester
-
 ## Table of Contents
+
+This is the repository of the AWD projects
 
 - [Activity 1](projects/Activity1)
 - [Jumping words](projects/Jumping%20words)
